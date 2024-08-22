@@ -14,6 +14,9 @@ nyanmisaka/jellyfin
 nastools/nas-tools
 easychen/cookiecloud
 jxxghp/moviepilot-ocr:latest
+jxxghp/moviepilot:latest
 nevinee/qbittorrent:4.3.9
+iyuucn/iyuuplus
 filebrowser/filebrowser
 lkw199711/smanga:beta
+iyuucn/iyuuplus-dev
