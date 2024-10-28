@@ -20,3 +20,9 @@ iyuucn/iyuuplus
 filebrowser/filebrowser
 lkw199711/smanga:beta
 iyuucn/iyuuplus-dev
+vaultwarden/server
+6053537/portainer-ce
+hectorqin/reader
+linuxserver/heimdall
+jeessy/ddns-go
+hslr/sun-panel
