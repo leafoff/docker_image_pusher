@@ -27,3 +27,4 @@ linuxserver/heimdall
 jeessy/ddns-go
 hslr/sun-panel
 jxxghp/moviepilot-v2:latest
+xushier/hd-icons
